@@ -1,1 +1,2 @@
-#!/bin/bash\ntouch betty
+#!/bin/bash
+touch betty
