@@ -1,2 +1,1 @@
-#!/bin/bash
-touch betty
+#!/bin/bash\su betty
